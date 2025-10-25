@@ -1,0 +1,2 @@
+#!/bin/bash
+echo "Привет, сервер!" | nc localhost 12345
